@@ -44,3 +44,8 @@ Copy code
 - `/ws/chat/room/<room_id>/`: Websocket endpoint for real-time messaging in a chat room.
 
 
+
+![1](https://github.com/Jekmen1/chat_app/assets/151436749/f75e6012-d147-48bf-9c24-8dd564943c42)
+
+
+
