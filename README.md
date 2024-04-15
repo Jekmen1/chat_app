@@ -47,5 +47,9 @@ Copy code
 
 ![1](https://github.com/Jekmen1/chat_app/assets/151436749/f75e6012-d147-48bf-9c24-8dd564943c42)
 
+![2](https://github.com/Jekmen1/chat_app/assets/151436749/d3e42a01-6dec-403a-9eaa-2e2f87f49e52)
+
+![3](https://github.com/Jekmen1/chat_app/assets/151436749/e91be811-22a1-4bd4-aa43-edf4b05c1bb6)
+
 
 
